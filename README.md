@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I am Jaden, currently 18 years old and an apprentice. I am always and at all times learning about everything and am actually interested in pretty much everything. I love open source projects, it allows me to learn and others as well >.>
 I program in pretty much all areas, just search my GitHub, you'll get a nice overview.
 I wouldn't say I'm an overachiever, but I'm also anything but crappy at what I do.
@@ -6,6 +6,7 @@ I wouldn't say I'm an overachiever, but I'm also anything but crappy at what I d
 I just enjoy it ^^
 
 ## Please take a look at my stats :)
+### because statistics are cool (⌐■_■)
 ![MarkenJaden's github stats](https://github-readme-stats.vercel.app/api?username=MarkenJaden&count_private=true&show_icons=true)
 
 ![MarkenJaden's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkenJaden)
