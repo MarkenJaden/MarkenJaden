@@ -5,7 +5,9 @@ I wouldn't say I'm an overachiever, but I'm also anything but crappy at what I d
 
 ## Please take a look at my stats :)
 ![MarkenJaden's github stats](https://github-readme-stats.vercel.app/api?username=MarkenJaden&count_private=true&show_icons=true)
+
 ![MarkenJaden's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkenJaden)
+
 ![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden)
 
 <!--
