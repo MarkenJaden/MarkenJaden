@@ -5,6 +5,8 @@ I wouldn't say I'm an overachiever, but I'm also anything but crappy at what I d
 
 I just enjoy it ^^
 
+---
+
 ## Please take a look at my stats :)
 ### because statistics are cool (⌐■_■)
 ![MarkenJaden's github stats](https://github-readme-stats.vercel.app/api?username=MarkenJaden&count_private=true&show_icons=true)
