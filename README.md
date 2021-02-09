@@ -13,6 +13,8 @@ I just enjoy it ^^
 
 ![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden)
 
+![MarkenJaden's profile views](https://komarev.com/ghpvc/?username=MarkenJaden)
+
 <!--
 **MarkenJaden/MarkenJaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
