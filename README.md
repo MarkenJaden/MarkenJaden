@@ -7,6 +7,13 @@ I just enjoy it ^^
 
 ---
 
+### Current projects 🛠
+
+* **LandOfSignals** - A Minecraft railroad signals and decorations mod for Minecraft version 1.7.10, 1.10.2 - 1.16.5
+  [![](https://cdn.discordapp.com/attachments/709854318689255434/824981860009639956/2021-03-26_13.22.42.png)](https://www.curseforge.com/minecraft/mc-mods/landofsignals)
+* **LandOfRails** - In total, a Minecraft railroad server. I take care of all the technical stuff in the background. This includes Discord bots, a custom Minecraft launcher, the website and smaller web applications.
+---
+
 ### Please take a look at my stats :)
 -> because statistics are cool (⌐■_■)
 
@@ -17,6 +24,15 @@ I just enjoy it ^^
 ![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden)
 
 ![MarkenJaden's profile views](https://komarev.com/ghpvc/?username=MarkenJaden)
+
+---
+
+### Contact 💌
+
+* Discord -> MarkenJaden#7787 (Fast respond)
+* E-Mail -> markenjaden@landofrails.net (Slow respond)
+
+
 
 <!--
 **MarkenJaden/MarkenJaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
