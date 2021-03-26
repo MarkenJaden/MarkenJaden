@@ -17,11 +17,11 @@ I just enjoy it ^^
 ### Please take a look at my stats :)
 -> because statistics are cool (⌐■_■)
 
-![MarkenJaden's github stats](https://github-readme-stats.vercel.app/api?username=MarkenJaden&count_private=true&show_icons=true)
+![MarkenJaden's github stats](https://github-readme-stats.vercel.app/api?username=MarkenJaden&count_private=true&show_icons=true&theme=radical)
 
-![MarkenJaden's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkenJaden)
+![MarkenJaden's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkenJaden&theme=radical)
 
-![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden)
+![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden&theme=radical)
 
 ![MarkenJaden's profile views](https://komarev.com/ghpvc/?username=MarkenJaden)
 
