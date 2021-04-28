@@ -17,8 +17,7 @@ I just enjoy it ^^
 
 ---
 
-### Please take a look at my stats :)
--> because statistics are cool (⌐■_■)
+### Stats 📈
 
 ![MarkenJaden's github stats](https://github-readme-stats.vercel.app/api?username=MarkenJaden&count_private=true&show_icons=true&theme=radical)
 
