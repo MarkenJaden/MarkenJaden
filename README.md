@@ -24,6 +24,7 @@ I just enjoy it ^^
 ![MarkenJaden's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkenJaden&theme=radical)
 
 ![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden&theme=radical)
+(Other == Blazor (C# & HTML))
 
 ![MarkenJaden's profile views](https://komarev.com/ghpvc/?username=MarkenJaden)
 
