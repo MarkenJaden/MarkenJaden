@@ -27,7 +27,7 @@ I just enjoy it ^^
 
 (Other == Blazor (C# & HTML))
 
-[![MarkenJaden's Codewars stats](https://www.codewars.com/users/MarkenJaden/badges/large)](https://www.codewars.com/users/MarkenJaden)
+<!--[![MarkenJaden's Codewars stats](https://www.codewars.com/users/MarkenJaden/badges/large)](https://www.codewars.com/users/MarkenJaden)-->
 
 ![MarkenJaden's profile views](https://komarev.com/ghpvc/?username=MarkenJaden)
 
