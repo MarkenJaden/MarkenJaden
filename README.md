@@ -34,7 +34,7 @@ I just enjoy it ^^
 ### Contact 💌
 
 * Discord -> MarkenJaden#7787 (Fast respond)
-* E-Mail -> markenjaden@landofrails.net (Slow respond)
+* E-Mail -> jjsch1410@gmail.com (Slow respond)
 
 
 
