@@ -19,6 +19,13 @@ I just enjoy it ^^
 
 ### Stats 📈
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### More Stats 📈
+
 ![MarkenJaden's github stats](https://github-readme-stats.vercel.app/api?username=MarkenJaden&count_private=true&show_icons=true&theme=radical)
 
 ![MarkenJaden's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkenJaden&theme=radical)
