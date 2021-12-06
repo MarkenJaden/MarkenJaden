@@ -25,7 +25,9 @@ I just enjoy it ^^
 
 ![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden&theme=radical)
 
-[![wakatime](https://wakatime.com/badge/user/17f322c9-222a-48b4-9e15-983c41f7aed4.svg)](https://wakatime.com/@17f322c9-222a-48b4-9e15-983c41f7aed4)
+[![MarkenJadens's wakatime week stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden)](https://wakatime.com/@17f322c9-222a-48b4-9e15-983c41f7aed4)
+
+[![MarkenJaden's wakatime total stats](https://wakatime.com/badge/user/17f322c9-222a-48b4-9e15-983c41f7aed4.svg)](https://wakatime.com/@17f322c9-222a-48b4-9e15-983c41f7aed4)
 
 <!--[![MarkenJaden's Codewars stats](https://www.codewars.com/users/MarkenJaden/badges/large)](https://www.codewars.com/users/MarkenJaden)-->
 
