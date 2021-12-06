@@ -23,7 +23,7 @@ I just enjoy it ^^
 
 ![MarkenJaden's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkenJaden&theme=radical)
 
-![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden&theme=radical)
+[![MarkenJaden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkenJaden&theme=radical)](https://wakatime.com/@17f322c9-222a-48b4-9e15-983c41f7aed4)
 
 [![MarkenJaden's wakatime week stats](https://wakatime.com/badge/user/17f322c9-222a-48b4-9e15-983c41f7aed4.svg)](https://wakatime.com/@17f322c9-222a-48b4-9e15-983c41f7aed4)
 
