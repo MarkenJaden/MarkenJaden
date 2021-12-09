@@ -22,13 +22,13 @@ I just enjoy it ^^
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 477 Contributions in the Year 2021
+> 🏆 478 Contributions in the Year 2021
  > 
 > 📦 25.1 kB Used in GitHub's Storage 
  > 
@@ -67,18 +67,18 @@ Sunday       95 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Blazor                   3 hrs 15 mins       ███████████████░░░░░░░░░░   60.38% 
-C#                       1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   26.28% 
-Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
+Blazor                   3 hrs 15 mins       ██████████████░░░░░░░░░░░   56.58% 
+C#                       1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   30.92% 
+Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Visual Studio            5 hrs 24 mins       █████████████████████████   100.0% 
+Visual Studio            5 hrs 45 mins       █████████████████████████   100.0% 
 IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  5 hrs 24 mins       █████████████████████████   100.0%
+Windows                  5 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -98,7 +98,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/12/2021 00:26:52 UTC
+ Last Updated on 09/12/2021 06:14:26 UTC
 <!--END_SECTION:waka-->
 
 ---
