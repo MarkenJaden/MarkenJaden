@@ -28,8 +28,6 @@ I just enjoy it ^^
 
 **🐱 My GitHub Data** 
 
-> 🏆 496 Contributions in the Year 2021
- > 
 > 📦 25.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -99,7 +97,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/12/2021 12:18:13 UTC
+ Last Updated on 15/12/2021 15:13:41 UTC
 <!--END_SECTION:waka-->
 
 ---
