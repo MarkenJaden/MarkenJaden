@@ -26,7 +26,7 @@ I just enjoy it ^^
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
 
@@ -102,7 +102,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/01/2022 15:14:07 UTC
+ Last Updated on 11/01/2022 18:14:18 UTC
 <!--END_SECTION:waka-->
 
 ---
