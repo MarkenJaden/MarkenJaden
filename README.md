@@ -26,13 +26,13 @@ I just enjoy it ^^
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2022
+> 🏆 5 Contributions in the Year 2022
  > 
 > 📦 26.6 kB Used in GitHub's Storage 
  > 
@@ -101,7 +101,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2022 08:48:15 UTC
+ Last Updated on 20/01/2022 12:18:25 UTC
 <!--END_SECTION:waka-->
 
 ---
