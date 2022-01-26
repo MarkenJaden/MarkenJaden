@@ -12,7 +12,7 @@ I just enjoy it ^^
 * [**LandOfSignals**](https://github.com/LandOfRails/LandOfSignals) - A Minecraft railroad signals and decorations mod for Minecraft version 1.7.10, 1.10.2 - 1.16.5
 * [**LandOfRails**](https://github.com/LandOfRails) - In total, a Minecraft railroad server. I take care of all the technical stuff in the background. This includes Discord bots, a custom Minecraft launcher, the website and smaller web applications.
 * [**Jugend Mal Anders EV**](https://jugendmalanders.de/) - I created and manage the website
-* [**SAMT - Siegener Anime und Manga Treff**](https://github.com/Siegener-Anime-und-Manga-Treff-SAMT) - I am a part of the event and maintain the Discord as well as the custom Discord bot
+* [**SAMT - Siegener Anime und Manga Treff**](https://github.com/Siegener-Anime-und-Manga-Treff-SAMT) - I am a part of the event and maintain the Website, the Discord as well as the custom Discord bot
 * <details> 
   <summary>NSFW</summary>
   
