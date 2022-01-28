@@ -25,13 +25,11 @@ I just enjoy it ^^
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%208%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 10 Contributions in the Year 2022
+> 🏆 11 Contributions in the Year 2022
  > 
 > 📦 26.7 kB Used in GitHub's Storage 
  > 
@@ -53,10 +51,10 @@ I just enjoy it ^^
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       92 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
+Monday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
 Tuesday      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
 Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
-Thursday     59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
+Thursday     60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
 Friday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
 Saturday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
 Sunday       106 commits    █████░░░░░░░░░░░░░░░░░░░░   20.11%
@@ -101,7 +99,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 18:15:35 UTC
+ Last Updated on 28/01/2022 00:35:40 UTC
 <!--END_SECTION:waka-->
 
 ---
