@@ -25,13 +25,13 @@ I just enjoy it ^^
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2022
+> 🏆 13 Contributions in the Year 2022
  > 
 > 📦 26.2 kB Used in GitHub's Storage 
  > 
@@ -44,10 +44,10 @@ I just enjoy it ^^
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+🌞 Morning    50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
 🌆 Daytime    94 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
 🌃 Evening    162 commits    ███████░░░░░░░░░░░░░░░░░░   30.74% 
-🌙 Night      222 commits    ██████████░░░░░░░░░░░░░░░   42.13%
+🌙 Night      221 commits    ██████████░░░░░░░░░░░░░░░   41.94%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -101,7 +101,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2022 03:12:14 UTC
+ Last Updated on 31/01/2022 15:12:55 UTC
 <!--END_SECTION:waka-->
 
 ---
