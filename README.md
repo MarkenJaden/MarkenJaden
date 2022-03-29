@@ -25,8 +25,6 @@ I just enjoy it ^^
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%2034%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -101,7 +99,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 21:12:30 UTC
+ Last Updated on 29/03/2022 00:51:20 UTC
 <!--END_SECTION:waka-->
 
 ---
