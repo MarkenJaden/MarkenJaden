@@ -124,7 +124,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 ### Contact 💌
 
-* Discord -> MarkenJaden#7787 (Fast respond)
+* Discord -> https://discord.gg/ZZGTwCZprC MarkenJaden#7787 (Fast respond)
 * E-Mail -> jjsch1410@gmail.com (Slow respond)
 
 
