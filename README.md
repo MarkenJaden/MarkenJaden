@@ -25,7 +25,7 @@ I just enjoy it ^^
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83%20Thousand%20lines%20of%20code-blue)
 
@@ -70,13 +70,17 @@ Sunday       112 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blazor                   30 mins             ████████████████████░░░░░   81.51% 
+C#                       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
+CSHTML                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            37 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +100,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/04/2022 00:51:49 UTC
+ Last Updated on 23/04/2022 03:33:28 UTC
 <!--END_SECTION:waka-->
 
 ---
