@@ -33,7 +33,7 @@ I just enjoy it ^^
 
 > 🏆 200 Contributions in the Year 2022
  > 
-> 📦 34.0 kB Used in GitHub's Storage 
+> 📦 34.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +101,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 15:13:15 UTC
+ Last Updated on 08/05/2022 18:16:13 UTC
 <!--END_SECTION:waka-->
 
 ---
