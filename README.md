@@ -25,7 +25,7 @@ I just enjoy it ^^
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
 
@@ -33,7 +33,7 @@ I just enjoy it ^^
 
 > 🏆 214 Contributions in the Year 2022
  > 
-> 📦 34.0 kB Used in GitHub's Storage 
+> 📦 34.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +101,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/05/2022 09:15:09 UTC
+ Last Updated on 10/05/2022 12:25:15 UTC
 <!--END_SECTION:waka-->
 
 ---
