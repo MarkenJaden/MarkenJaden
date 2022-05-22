@@ -33,7 +33,7 @@ I just enjoy it ^^
 
 > 🏆 233 Contributions in the Year 2022
  > 
-> 📦 35.0 kB Used in GitHub's Storage 
+> 📦 35.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,7 +104,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 09:15:10 UTC
+ Last Updated on 22/05/2022 12:22:14 UTC
 <!--END_SECTION:waka-->
 
 ---
