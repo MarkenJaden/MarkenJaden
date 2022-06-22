@@ -5,6 +5,10 @@ I wouldn't say I'm an overachiever, but I'm also anything but crappy at what I d
 
 I just enjoy it ^^
 
+### Social media
+
+You can literally find all of my social media outlets that I have even a minimal presence on here: https://markenjaden.de/
+
 ---
 
 ### Current projects 🛠
