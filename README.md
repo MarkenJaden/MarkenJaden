@@ -29,19 +29,19 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-78%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 248 Contributions in the Year 2022
+> 🏆 249 Contributions in the Year 2022
  > 
 > 📦 35.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -109,7 +109,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2022 18:18:12 UTC
+ Last Updated on 24/06/2022 21:13:36 UTC
 <!--END_SECTION:waka-->
 
 ---
