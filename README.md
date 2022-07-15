@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-874%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79%20Thousand%20lines%20of%20code-blue)
 
@@ -107,7 +107,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/07/2022 12:24:03 UTC
+ Last Updated on 15/07/2022 15:16:07 UTC
 <!--END_SECTION:waka-->
 
 ---
