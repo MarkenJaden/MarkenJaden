@@ -74,15 +74,13 @@ Sunday       97 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     11 mins             ████████████████░░░░░░░░░   64.15% 
-C#                       6 mins              █████████░░░░░░░░░░░░░░░░   35.85%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 11 mins             ████████████████░░░░░░░░░   64.15% 
-Visual Studio            6 mins              █████████░░░░░░░░░░░░░░░░   35.85%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,7 +101,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 01:05:34 UTC
+ Last Updated on 03/09/2022 04:20:33 UTC
 <!--END_SECTION:waka-->
 
 ---
