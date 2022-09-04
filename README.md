@@ -45,6 +45,45 @@ You can literally find all of my social media outlets that I have even a minimal
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+🌆 Daytime    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
+🌃 Evening    253 commits    █████████░░░░░░░░░░░░░░░░   37.48% 
+🌙 Night      228 commits    ████████░░░░░░░░░░░░░░░░░   33.78%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
+Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+Wednesday    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
+Thursday     77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Saturday     80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
+Sunday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -62,7 +101,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 09:18:20 UTC
+ Last Updated on 04/09/2022 12:23:42 UTC
 <!--END_SECTION:waka-->
 
 ---
