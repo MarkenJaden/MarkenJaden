@@ -37,7 +37,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 > 🏆 273 Contributions in the Year 2022
  > 
-> 📦 35.8 kB Used in GitHub's Storage 
+> 📦 35.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +101,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 18:19:05 UTC
+ Last Updated on 22/09/2022 21:16:16 UTC
 <!--END_SECTION:waka-->
 
 ---
