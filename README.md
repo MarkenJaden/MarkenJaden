@@ -37,7 +37,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 > 🏆 273 Contributions in the Year 2022
  > 
-> 📦 35.7 kB Used in GitHub's Storage 
+> 📦 35.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,7 +74,8 @@ Sunday       97 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    16 mins             █████████████████████████   100.0%
+Other                    16 mins             ████████████████████████░   99.27% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 🔥 Editors: 
 Excel                    16 mins             █████████████████████████   100.0%
@@ -101,7 +102,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/09/2022 01:16:51 UTC
+ Last Updated on 24/09/2022 04:32:56 UTC
 <!--END_SECTION:waka-->
 
 ---
