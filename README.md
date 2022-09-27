@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-934%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-78%20Thousand%20lines%20of%20code-blue)
 
@@ -74,14 +74,18 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    16 mins             ████████████████████████░   99.27% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+Java                     2 hrs 35 mins       ███████████████████░░░░░░   79.01% 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
+Gradle                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+Groovy                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
+AUTO_DETECTED            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 🔥 Editors: 
-Excel                    16 mins             █████████████████████████   100.0%
+IntelliJ                 3 hrs               ███████████████████████░░   91.73% 
+Excel                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.27%
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.0%
+Windows                  3 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
@@ -102,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2022 01:12:06 UTC
+ Last Updated on 27/09/2022 04:35:47 UTC
 <!--END_SECTION:waka-->
 
 ---
