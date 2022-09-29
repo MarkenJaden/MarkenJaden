@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77%20Thousand%20lines%20of%20code-blue)
 
@@ -45,51 +45,6 @@ You can literally find all of my social media outlets that I have even a minimal
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
-🌆 Daytime    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
-🌃 Evening    263 commits    █████████░░░░░░░░░░░░░░░░   38.45% 
-🌙 Night      227 commits    ████████░░░░░░░░░░░░░░░░░   33.19%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Tuesday      105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
-Wednesday    128 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Thursday     77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
-Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Saturday     80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
-Sunday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Java                     5 hrs 18 mins       ███████████████████████░░   91.85% 
-Gradle                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
-Groovy                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
-AUTO_DETECTED            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
-Blazor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
-
-🔥 Editors: 
-IntelliJ                 5 hrs 43 mins       ████████████████████████░   99.22% 
-Visual Studio            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-Excel                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
-
-💻 Operating System: 
-Windows                  5 hrs 46 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -107,7 +62,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/09/2022 21:15:19 UTC
+ Last Updated on 29/09/2022 01:16:52 UTC
 <!--END_SECTION:waka-->
 
 ---
