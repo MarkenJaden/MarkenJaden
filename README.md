@@ -29,13 +29,13 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 296 Contributions in the Year 2022
+> 🏆 304 Contributions in the Year 2022
  > 
 > 📦 35.9 kB Used in GitHub's Storage 
  > 
@@ -48,10 +48,10 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
+🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
 🌆 Daytime    120 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
 🌃 Evening    261 commits    █████████░░░░░░░░░░░░░░░░   38.1% 
-🌙 Night      223 commits    ████████░░░░░░░░░░░░░░░░░   32.55%
+🌙 Night      215 commits    ███████░░░░░░░░░░░░░░░░░░   31.39%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -108,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2022 04:53:01 UTC
+ Last Updated on 01/10/2022 06:34:03 UTC
 <!--END_SECTION:waka-->
 
 ---
