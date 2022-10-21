@@ -29,15 +29,15 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 323 Contributions in the Year 2022
+> 🏆 325 Contributions in the Year 2022
  > 
-> 📦 36.6 kB Used in GitHub's Storage 
+> 📦 36.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,18 +50,18 @@ You can literally find all of my social media outlets that I have even a minimal
 ```text
 🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
 🌆 Daytime    120 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
-🌃 Evening    266 commits    █████████░░░░░░░░░░░░░░░░   38.33% 
-🌙 Night      219 commits    ████████░░░░░░░░░░░░░░░░░   31.56%
+🌃 Evening    268 commits    █████████░░░░░░░░░░░░░░░░   38.62% 
+🌙 Night      217 commits    ███████░░░░░░░░░░░░░░░░░░   31.27%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       114 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
-Tuesday      101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
+Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
 Wednesday    128 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
 Thursday     74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
-Friday       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
+Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
 Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
 Sunday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99%
 
@@ -105,7 +105,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2022 15:23:22 UTC
+ Last Updated on 21/10/2022 18:23:04 UTC
 <!--END_SECTION:waka-->
 
 ---
