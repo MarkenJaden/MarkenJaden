@@ -29,13 +29,13 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-977%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-977%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 333 Contributions in the Year 2022
+> 🏆 335 Contributions in the Year 2022
  > 
 > 📦 36.9 kB Used in GitHub's Storage 
  > 
@@ -48,22 +48,22 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
+🌞 Morning    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
 🌆 Daytime    117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
-🌃 Evening    273 commits    ██████████░░░░░░░░░░░░░░░   39.74% 
-🌙 Night      215 commits    ███████░░░░░░░░░░░░░░░░░░   31.3%
+🌃 Evening    272 commits    ██████████░░░░░░░░░░░░░░░   39.59% 
+🌙 Night      214 commits    ███████░░░░░░░░░░░░░░░░░░   31.15%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
+Monday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.74% 
 Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Wednesday    124 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
+Wednesday    126 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
 Thursday     73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
 Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
 Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Sunday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.14%
+Sunday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99%
 
 ```
 
@@ -108,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 09:17:24 UTC
+ Last Updated on 09/11/2022 12:31:22 UTC
 <!--END_SECTION:waka-->
 
 ---
