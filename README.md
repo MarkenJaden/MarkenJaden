@@ -15,7 +15,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 * [**LandOfSignals**](https://github.com/LandOfRails/LandOfSignals) - A Minecraft railroad signals and decorations mod for Minecraft version 1.7.10, 1.10.2 - 1.16.5
 * [**LandOfRails**](https://github.com/LandOfRails) - In total, a Minecraft railroad server. I take care of all the technical stuff in the background. This includes Discord bots, a custom Minecraft launcher, the website and smaller web applications.
-* [**Jugend Mal Anders EV**](https://jugendmalanders.de/) - I am the chairman of the board of the association and also take care of everything technical and financial
+* [**Jugend mal anders e.V.**](https://jugendmalanders.de/) - I am the chairman of the board of the association and take care of everything technical and financial as well as planning local events
 * [**SAMT - Siegener Anime und Manga Treff**](https://github.com/Siegener-Anime-und-Manga-Treff-SAMT) - I am a leader of the event and maintain the Website, the Discord as well as the custom Discord bot
 * <details> 
   <summary>NSFW</summary>
