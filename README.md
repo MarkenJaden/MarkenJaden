@@ -29,13 +29,13 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 68 Contributions in the Year 2023
+> 🏆 69 Contributions in the Year 2023
  > 
 > 📦 37.0 kB Used in GitHub's Storage 
  > 
@@ -48,9 +48,9 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
+🌞 Morning    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
 🌆 Daytime    145 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
-🌃 Evening    287 commits    █████████░░░░░░░░░░░░░░░░   37.27% 
+🌃 Evening    286 commits    █████████░░░░░░░░░░░░░░░░   37.14% 
 🌙 Night      242 commits    ███████░░░░░░░░░░░░░░░░░░   31.43%
 
 ```
@@ -58,10 +58,10 @@ You can literally find all of my social media outlets that I have even a minimal
 
 ```text
 Monday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-Tuesday      112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
+Tuesday      111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
 Wednesday    118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
 Thursday     94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-Friday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+Friday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
 Saturday     108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
 Sunday       114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81%
 
@@ -109,7 +109,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 09:17:23 UTC
+ Last Updated on 13/01/2023 12:21:20 UTC
 <!--END_SECTION:waka-->
 
 ---
