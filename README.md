@@ -29,13 +29,13 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 91 Contributions in the Year 2023
+> 🏆 92 Contributions in the Year 2023
  > 
 > 📦 37.0 kB Used in GitHub's Storage 
  > 
@@ -48,19 +48,19 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
+🌞 Morning    101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
 🌆 Daytime    143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
 🌃 Evening    286 commits    █████████░░░░░░░░░░░░░░░░   37.14% 
-🌙 Night      241 commits    ███████░░░░░░░░░░░░░░░░░░   31.3%
+🌙 Night      240 commits    ███████░░░░░░░░░░░░░░░░░░   31.17%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
+Monday       134 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.4% 
 Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
 Wednesday    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
-Thursday     94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
 Friday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
 Saturday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
 Sunday       121 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.71%
@@ -107,7 +107,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2023 09:13:46 UTC
+ Last Updated on 16/01/2023 12:21:40 UTC
 <!--END_SECTION:waka-->
 
 ---
