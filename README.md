@@ -29,13 +29,13 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 142 Contributions in the Year 2023
+> 🏆 143 Contributions in the Year 2023
  > 
 > 📦 37.0 kB Used in GitHub's Storage 
  > 
@@ -48,9 +48,9 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+🌞 Morning    105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
 🌆 Daytime    143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
-🌃 Evening    283 commits    █████████░░░░░░░░░░░░░░░░   36.71% 
+🌃 Evening    284 commits    █████████░░░░░░░░░░░░░░░░   36.84% 
 🌙 Night      239 commits    ███████░░░░░░░░░░░░░░░░░░   31.0%
 
 ```
@@ -58,12 +58,12 @@ You can literally find all of my social media outlets that I have even a minimal
 
 ```text
 Monday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
+Tuesday      101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
 Wednesday    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
 Thursday     96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
 Friday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
 Saturday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.43%
+Sunday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.56%
 
 ```
 
@@ -109,7 +109,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/01/2023 18:15:25 UTC
+ Last Updated on 22/01/2023 21:11:25 UTC
 <!--END_SECTION:waka-->
 
 ---
