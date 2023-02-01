@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C050%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C050%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
 
@@ -48,8 +48,8 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-🌆 Daytime    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
+🌞 Morning    104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
+🌆 Daytime    139 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
 🌃 Evening    317 commits    ██████████░░░░░░░░░░░░░░░   40.59% 
 🌙 Night      221 commits    ███████░░░░░░░░░░░░░░░░░░   28.3%
 
@@ -59,8 +59,8 @@ You can literally find all of my social media outlets that I have even a minimal
 ```text
 Monday       140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
 Tuesday      120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
-Wednesday    130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
-Thursday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
+Wednesday    131 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
+Thursday     79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
 Friday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
 Saturday     108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
 Sunday       112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34%
@@ -107,7 +107,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 09:16:16 UTC
+ Last Updated on 01/02/2023 12:24:49 UTC
 <!--END_SECTION:waka-->
 
 ---
