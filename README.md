@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 **🐱 My GitHub Data** 
 
-> 🏆 328 Contributions in the Year 2023
+> 🏆 329 Contributions in the Year 2023
  > 
 > 📦 37.1 kB Used in GitHub's Storage 
  > 
@@ -60,8 +60,8 @@ You can literally find all of my social media outlets that I have even a minimal
 Monday         139 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 Tuesday        119 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 Wednesday      135 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday        83 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Friday          85 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Thursday        84 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Friday          84 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 Saturday       108 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 Sunday         112 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 
@@ -105,7 +105,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/02/2023 18:17:16 UTC
+ Last Updated on 09/02/2023 21:15:05 UTC
 <!--END_SECTION:waka-->
 
 ---
