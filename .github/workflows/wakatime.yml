@@ -16,7 +16,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated metrics"
           SHOW_UPDATED_DATE: "True"
           SHOW_LOC_CHART: "True"
