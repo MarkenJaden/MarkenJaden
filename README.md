@@ -29,13 +29,13 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 37.2 kB Used in GitHub's Storage 
+> 📦 37.1 kB Used in GitHub's Storage 
  > 
 > 🏆 340 Contributions in the Year 2023
  > 
@@ -72,18 +72,17 @@ Sunday                   143 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Blazor                   1 hr 16 mins        ██████████████░░░░░░░░░░░   57.49 % 
-Binary                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-C#                       8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Binary                   22 mins             ██████████░░░░░░░░░░░░░░░   39.69 % 
+Blazor                   19 mins             █████████░░░░░░░░░░░░░░░░   34.64 % 
+C#                       8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs               ███████████████████████░░   91.12 % 
-Word                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Visual Studio            51 mins             ██████████████████████░░░   89.89 % 
+Word                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2023 00:50:13 UTC
+ Last Updated on 24/02/2023 03:14:14 UTC
 <!--END_SECTION:waka-->
 
 ---
