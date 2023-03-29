@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-731.0%20thousand%20lines%20of%20code-blue)
 
@@ -37,7 +37,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 > 📦 37.3 kB Used in GitHub's Storage 
  > 
-> 🏆 387 Contributions in the Year 2023
+> 🏆 388 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,7 +103,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2023 21:08:56 UTC
+ Last Updated on 29/03/2023 00:52:59 UTC
 <!--END_SECTION:waka-->
 
 ---
