@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 **🐱 My GitHub Data** 
 
-> 📦 37.4 kB Used in GitHub's Storage 
+> 📦 37.5 kB Used in GitHub's Storage 
  > 
 > 🏆 420 Contributions in the Year 2023
  > 
@@ -72,13 +72,17 @@ Sunday                   292 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 12 mins        ██████████████████████░░░   86.25 % 
+MCLang                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -98,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2023 00:41:47 UTC
+ Last Updated on 06/05/2023 03:09:28 UTC
 <!--END_SECTION:waka-->
 
 ---
