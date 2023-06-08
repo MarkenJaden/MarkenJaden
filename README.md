@@ -126,7 +126,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 ### Contact 💌
 
-* Discord -> https://discord.gg/ZZGTwCZprC MarkenJaden#7787 (Fast respond)
+* Discord -> https://discord.gg/ZZGTwCZprC @markenjaden (Fast respond)
 * E-Mail -> jjsch1410@gmail.com (Slow respond)
 
 
