@@ -72,17 +72,13 @@ Sunday                   367 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     59 mins             ████████████████████████░   96.12 % 
-Log                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2023 00:59:48 UTC
+ Last Updated on 26/06/2023 03:28:50 UTC
 <!--END_SECTION:waka-->
 
 ---
