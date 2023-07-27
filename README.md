@@ -72,7 +72,8 @@ Sunday                   370 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Binary                   0 secs              █████████████████████████   100.00 % 
+Binary                   0 secs              ██████████████░░░░░░░░░░░   56.66 % 
+Blazor                   0 secs              ███████████░░░░░░░░░░░░░░   43.34 % 
 
 🔥 Editors: 
 Visual Studio            0 secs              █████████████████████████   100.00 % 
@@ -98,7 +99,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2023 00:08:07 UTC
+ Last Updated on 27/07/2023 03:03:32 UTC
 <!--END_SECTION:waka-->
 
 ---
