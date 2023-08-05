@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-976.2%20thousand%20lines%20of%20code-blue)
 
@@ -72,16 +72,18 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Blazor                   1 hr 54 mins        ██████████████████████░░░   87.14 % 
-Binary                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-CSHTML                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Blazor                   1 hr 54 mins        ████████████░░░░░░░░░░░░░   48.38 % 
+Java                     1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   41.12 % 
+Binary                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+CSHTML                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 11 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 11 mins       ██████████████░░░░░░░░░░░   55.52 % 
+IntelliJ                 1 hr 45 mins        ███████████░░░░░░░░░░░░░░   44.48 % 
 
 💻 Operating System: 
-Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -101,7 +103,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2023 00:08:04 UTC
+ Last Updated on 05/08/2023 03:03:47 UTC
 <!--END_SECTION:waka-->
 
 ---
