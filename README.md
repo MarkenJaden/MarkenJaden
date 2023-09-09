@@ -72,13 +72,13 @@ Sunday                   377 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Razor                    7 mins              █████████████████████████   100.00 % 
+Razor                    8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            7 mins              █████████████████████████   100.00 % 
+Visual Studio            8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -98,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2023 00:06:56 UTC
+ Last Updated on 09/09/2023 03:03:22 UTC
 <!--END_SECTION:waka-->
 
 ---
