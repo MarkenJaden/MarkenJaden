@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 **🐱 My GitHub Data** 
 
-> 📦 38.5 kB Used in GitHub's Storage 
+> 📦 38.6 kB Used in GitHub's Storage 
  > 
 > 🏆 511 Contributions in the Year 2023
  > 
@@ -102,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2023 21:03:25 UTC
+ Last Updated on 19/12/2023 00:08:19 UTC
 <!--END_SECTION:waka-->
 
 ---
