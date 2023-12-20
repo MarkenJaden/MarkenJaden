@@ -72,17 +72,13 @@ Sunday                   439 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Properties               13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Groovy                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Gradle                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Java Properties          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2023 00:06:55 UTC
+ Last Updated on 20/12/2023 03:03:19 UTC
 <!--END_SECTION:waka-->
 
 ---
