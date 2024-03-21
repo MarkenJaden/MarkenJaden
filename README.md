@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -72,16 +72,17 @@ Sunday                   516 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       50 mins             ███████████████░░░░░░░░░░   61.00 % 
-XML                      28 mins             ████████░░░░░░░░░░░░░░░░░   33.97 % 
-Binary                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+C#                       2 hrs 20 mins       ████████████████░░░░░░░░░   63.31 % 
+XML                      58 mins             ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Binary                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 22 mins        █████████████████████████   100.00 % 
+Visual Studio            3 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -101,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2024 00:08:28 UTC
+ Last Updated on 21/03/2024 03:03:16 UTC
 <!--END_SECTION:waka-->
 
 ---
