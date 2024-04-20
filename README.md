@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 **🐱 My GitHub Data** 
 
-> 📦 39.1 kB Used in GitHub's Storage 
+> 📦 39.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,7 +96,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2024 12:03:47 UTC
+ Last Updated on 20/04/2024 15:03:21 UTC
 <!--END_SECTION:waka-->
 
 ---
