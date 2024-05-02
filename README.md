@@ -37,6 +37,8 @@ You can literally find all of my social media outlets that I have even a minimal
 
 > 📦 39.2 kB Used in GitHub's Storage 
  > 
+> 🏆 55 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -70,15 +72,13 @@ Sunday                   516 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       28 mins             █████████████████░░░░░░░░   69.47 % 
-Binary                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-XML                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -98,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 00:08:34 UTC
+ Last Updated on 02/05/2024 03:03:35 UTC
 <!--END_SECTION:waka-->
 
 ---
