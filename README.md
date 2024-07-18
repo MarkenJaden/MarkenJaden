@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C242%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -72,17 +72,17 @@ Sunday                   554 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Razor                    3 hrs 51 mins       ███████████████░░░░░░░░░░   61.84 % 
-C#                       1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Binary                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Razor                    4 hrs 3 mins        ███████████████░░░░░░░░░░   60.39 % 
+C#                       1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Binary                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Visual Studio            6 hrs 13 mins       █████████████████████████   100.00 % 
+Visual Studio            6 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2024 00:09:09 UTC
+ Last Updated on 18/07/2024 03:04:02 UTC
 <!--END_SECTION:waka-->
 
 ---
