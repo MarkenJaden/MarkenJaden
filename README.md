@@ -29,13 +29,15 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 156 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,16 +72,16 @@ Sunday                   554 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       5 hrs 45 mins       ████████████████████████░   97.45 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-XAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+C#                       3 hrs 50 mins       █████████████████████░░░░   82.35 % 
+Razor                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Binary                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 55 mins       █████████████████████████   100.00 % 
+Visual Studio            4 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -99,7 +101,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2024 00:10:22 UTC
+ Last Updated on 09/10/2024 03:08:36 UTC
 <!--END_SECTION:waka-->
 
 ---
