@@ -29,13 +29,13 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 40.1 kB Used in GitHub's Storage 
+> 📦 40.2 kB Used in GitHub's Storage 
  > 
 > 🏆 156 Contributions in the Year 2024
  > 
@@ -72,17 +72,17 @@ Sunday                   554 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       2 hrs 21 mins       █████████████████░░░░░░░░   66.01 % 
-Razor                    36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Binary                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+C#                       2 hrs 23 mins       █████████████████░░░░░░░░   66.37 % 
+Razor                    36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Binary                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 34 mins       █████████████████████████   100.00 % 
+Visual Studio            3 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 00:10:09 UTC
+ Last Updated on 12/10/2024 03:06:26 UTC
 <!--END_SECTION:waka-->
 
 ---
