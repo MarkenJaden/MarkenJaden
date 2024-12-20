@@ -29,13 +29,15 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 255 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,18 +72,17 @@ Sunday                   553 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       2 hrs               █████████████████████░░░░   82.98 % 
-Razor                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Binary                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+C#                       25 mins             ███████████████░░░░░░░░░░   60.51 % 
+Binary                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Razor                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 25 mins       █████████████████████████   99.99 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Visual Studio            41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -101,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 00:10:35 UTC
+ Last Updated on 20/12/2024 03:08:22 UTC
 <!--END_SECTION:waka-->
 
 ---
