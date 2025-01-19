@@ -37,6 +37,8 @@ You can literally find all of my social media outlets that I have even a minimal
 
 > 📦 45.0 kB Used in GitHub's Storage 
  > 
+> 🏆 18 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -70,15 +72,15 @@ Sunday                   554 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Razor                    4 hrs 38 mins       ███████████████░░░░░░░░░░   61.52 % 
-Binary                   1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-C#                       1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Razor                    3 hrs 20 mins       ███████████████░░░░░░░░░░   58.10 % 
+Binary                   1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+C#                       50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 33 mins       █████████████████████████   100.00 % 
+Visual Studio            5 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -98,7 +100,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2025 00:12:08 UTC
+ Last Updated on 19/01/2025 03:09:35 UTC
 <!--END_SECTION:waka-->
 
 ---
