@@ -29,13 +29,13 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 45.1 kB Used in GitHub's Storage 
+> 📦 48.4 kB Used in GitHub's Storage 
  > 
 > 🏆 31 Contributions in the Year 2025
  > 
@@ -48,7 +48,7 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                374 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+🌞 Morning                375 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 🌆 Daytime                1259 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 🌃 Evening                2854 commits        ██████████░░░░░░░░░░░░░░░   40.92 % 
 🌙 Night                  2487 commits        █████████░░░░░░░░░░░░░░░░   35.66 % 
@@ -56,8 +56,8 @@ You can literally find all of my social media outlets that I have even a minimal
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1329 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Tuesday                  1174 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Monday                   1329 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Tuesday                  1175 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 Wednesday                1192 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 Thursday                 851 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Friday                   899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
@@ -102,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2025 09:04:24 UTC
+ Last Updated on 28/01/2025 12:05:32 UTC
 <!--END_SECTION:waka-->
 
 ---
