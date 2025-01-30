@@ -29,13 +29,15 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 48.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 40 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,17 +72,17 @@ Sunday                   554 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Binary                   39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-XML                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Docker                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Docker                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+JSON                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+XML                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Binary                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 9 mins        █████████████████████████   100.00 % 
+Visual Studio            2 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -100,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 00:10:34 UTC
+ Last Updated on 30/01/2025 03:04:11 UTC
 <!--END_SECTION:waka-->
 
 ---
