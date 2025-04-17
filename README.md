@@ -29,7 +29,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C402%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -72,17 +72,17 @@ Sunday                   553 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   2 hrs 34 mins       █████████████░░░░░░░░░░░░   52.36 % 
-JavaScript               50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-TOML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-reStructuredText         18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Python                   4 hrs 32 mins       ███████████████░░░░░░░░░░   60.40 % 
+JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+HTML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+TOML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+reStructuredText         21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 54 mins       █████████████████████████   100.00 % 
+PyCharm                  7 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +102,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2025 00:11:25 UTC
+ Last Updated on 17/04/2025 03:18:07 UTC
 <!--END_SECTION:waka-->
 
 ---
