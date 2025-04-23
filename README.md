@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Jaden, currently 21 years old and a professional junior software developer with completed vocational qualification. I am always and at all times learning and kind of interested in pretty much everything. I love open source projects, it allows me to learn and others as well >.>
+I am Jaden, currently 22 years old and a professional junior software developer with completed vocational qualification. I am always and at all times learning and kind of interested in pretty much everything. I love open source projects, it allows me to learn and others as well >.>
 I program in pretty much all areas, just search my GitHub, you'll get a nice overview.
 I wouldn't say I'm an overachiever, but I'm also anything but crappy at what I do.. I think heh
 
@@ -13,12 +13,18 @@ You can literally find all of my social media outlets that I have even a minimal
 
 ### Current projects 🛠
 
+**Active**
+* [**Pretix Sales Map Plugin**](https://github.com/MarkenJaden/pretix-map) - A plugin for the ticket shop system "Pretix". Provides an overview map visualizing the geographic location of attendees based on the addresses provided in their orders.
+* [**Urlaubsplaner (Holiday planner)**](https://github.com/MarkenJaden/Urlaubsplaner) - A website to easily and quickly view public vacations and school vacations and plan your vacation schedule for the year and submit it to the company.
+
+**Passive**
 * [**LandOfSignals**](https://github.com/LandOfRails/LandOfSignals) - A Minecraft railroad signals and decorations mod for Minecraft version 1.7.10, 1.10.2 - 1.16.5
 * [**LandOfRails**](https://github.com/LandOfRails) - In total, a Minecraft railroad server. I take care of all the technical stuff in the background. This includes Discord bots, a custom Minecraft launcher, the website and smaller web applications.
 * [**Jugend mal anders e.V.**](https://jugendmalanders.de/) - I am the chairman of the board of the association and take care of everything technical and financial as well as planning local events
 * [**SAMT - Siegener Anime und Manga Treff**](https://github.com/Siegener-Anime-und-Manga-Treff-SAMT) - I am a leader of the event and maintain the Website, the Discord as well as the custom Discord bot
 * <details> 
   <summary>NSFW</summary>
+  **Active**
   
   [**Nekos**](https://github.com/MarkenJaden/Nekos) - Website providing you with random lewd neko pics
   
