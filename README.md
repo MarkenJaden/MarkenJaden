@@ -43,6 +43,8 @@ You can literally find all of my social media outlets that I have even a minimal
 
 > 📦 50.8 kB Used in GitHub's Storage 
  > 
+> 🏆 182 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -105,7 +107,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 03:33:27 UTC
+ Last Updated on 31/07/2025 06:06:10 UTC
 <!--END_SECTION:waka-->
 
 ---
