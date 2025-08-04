@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -93,11 +93,11 @@ Windows                  34 mins             ███████████�
 **I Mostly Code in C#** 
 
 ```text
-C#                       14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
-HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+C#                       14 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
+HTML                     10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
@@ -107,7 +107,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 15:05:36 UTC
+ Last Updated on 04/08/2025 18:05:37 UTC
 <!--END_SECTION:waka-->
 
 ---
