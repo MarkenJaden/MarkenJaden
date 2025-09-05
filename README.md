@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C419%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -78,13 +78,15 @@ Sunday                   611 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Binary                   12 mins             ████████████░░░░░░░░░░░░░   48.59 % 
+Razor                    10 mins             ██████████░░░░░░░░░░░░░░░   41.41 % 
+CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -104,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 00:12:46 UTC
+ Last Updated on 05/09/2025 03:15:15 UTC
 <!--END_SECTION:waka-->
 
 ---
