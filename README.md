@@ -35,6 +35,8 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2019%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -49,6 +51,46 @@ You can literally find all of my social media outlets that I have even a minimal
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                432 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+🌆 Daytime                1595 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+🌃 Evening                3243 commits        ██████████░░░░░░░░░░░░░░░   39.65 % 
+🌙 Night                  2909 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1566 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Tuesday                  1435 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Wednesday                1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Thursday                 1033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Friday                   1054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Saturday                 1056 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Sunday                   670 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Razor                    6 hrs 21 mins       ████████████░░░░░░░░░░░░░   49.32 % 
+C#                       3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Binary                   3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+🔥 Editors: 
+Visual Studio            12 hrs 54 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  12 hrs 54 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -66,7 +108,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 00:13:17 UTC
+ Last Updated on 20/09/2025 03:13:01 UTC
 <!--END_SECTION:waka-->
 
 ---
