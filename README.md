@@ -35,6 +35,8 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2019%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -49,6 +51,42 @@ You can literally find all of my social media outlets that I have even a minimal
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                432 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+🌆 Daytime                1598 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+🌃 Evening                3254 commits        ██████████░░░░░░░░░░░░░░░   39.69 % 
+🌙 Night                  2914 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1570 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Tuesday                  1435 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Wednesday                1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Thursday                 1033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Friday                   1054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Saturday                 1056 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Sunday                   685 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -66,7 +104,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 00:12:10 UTC
+ Last Updated on 03/10/2025 03:13:45 UTC
 <!--END_SECTION:waka-->
 
 ---
