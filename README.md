@@ -131,7 +131,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ### Contact 💌
 
-* Discord -> https://discord.gg/ZZGTwCZprC @markenjaden (Fast respond)
+* Discord -> [Discord Server](https://discord.gg/r4HdSEQRey) @markenjaden (Fast respond)
 * E-Mail -> jjsch1410@gmail.com (Slow respond)
 
 
