@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C487%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C488%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -78,17 +78,17 @@ Sunday                   730 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Binary                   5 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.46 % 
-Razor                    4 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
-C#                       4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Binary                   5 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
+C#                       3 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
+Razor                    3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Visual Studio            14 hrs 38 mins      █████████████████████████   100.00 % 
+Visual Studio            13 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +108,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2025 00:12:47 UTC
+ Last Updated on 29/10/2025 03:26:03 UTC
 <!--END_SECTION:waka-->
 
 ---
