@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C520%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C522%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
@@ -43,7 +43,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 > 📦 53.0 kB Used in GitHub's Storage 
  > 
-> 🏆 621 Contributions in the Year 2025
+> 🏆 622 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,17 +78,17 @@ Sunday                   847 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Binary                   2 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.50 % 
-C#                       1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Razor                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-XML                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Binary                   3 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.88 % 
+C#                       2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.71 % 
+Razor                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+XML                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 21 mins       █████████████████████████   100.00 % 
+Visual Studio            6 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 00:13:44 UTC
+ Last Updated on 27/12/2025 03:32:01 UTC
 <!--END_SECTION:waka-->
 
 ---
