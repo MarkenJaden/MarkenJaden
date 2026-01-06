@@ -78,16 +78,13 @@ Sunday                   847 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Binary                   1 hr 22 mins        █████████████░░░░░░░░░░░░   52.17 % 
-C#                       52 mins             ████████░░░░░░░░░░░░░░░░░   33.45 % 
-Razor                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            2 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -107,7 +104,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 00:14:22 UTC
+ Last Updated on 06/01/2026 03:33:55 UTC
 <!--END_SECTION:waka-->
 
 ---
