@@ -35,7 +35,7 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C642%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.39%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,17 +78,17 @@ Sunday                   849 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Binary                   3 hrs 46 mins       ██████████████████░░░░░░░   72.87 % 
-Razor                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-C#                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Binary                   6 hrs 20 mins       ███████████████░░░░░░░░░░   58.66 % 
+Razor                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+C#                       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 10 mins       █████████████████████████   100.00 % 
+Visual Studio            10 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 00:14:06 UTC
+ Last Updated on 10/01/2026 03:32:30 UTC
 <!--END_SECTION:waka-->
 
 ---
