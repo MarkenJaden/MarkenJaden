@@ -37,13 +37,13 @@ You can literally find all of my social media outlets that I have even a minimal
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C671%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.43%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 53.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 218 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                647 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-🌆 Daytime                2764 commits        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-🌃 Evening                3950 commits        █████████░░░░░░░░░░░░░░░░   35.64 % 
-🌙 Night                  3721 commits        ████████░░░░░░░░░░░░░░░░░   33.58 % 
+🌞 Morning                650 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+🌆 Daytime                2764 commits        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+🌃 Evening                3950 commits        █████████░░░░░░░░░░░░░░░░   35.63 % 
+🌙 Night                  3722 commits        ████████░░░░░░░░░░░░░░░░░   33.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1899 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Tuesday                  2098 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Wednesday                1745 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Monday                   1903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Tuesday                  2098 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Wednesday                1744 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 Thursday                 1627 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Friday                   1529 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Friday                   1529 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 Saturday                 1107 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Sunday                   1077 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Sunday                   1078 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 ```
 
 
@@ -109,7 +109,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2026 09:20:46 UTC
+ Last Updated on 09/02/2026 12:16:04 UTC
 <!--END_SECTION:waka-->
 
 ---
