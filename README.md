@@ -41,15 +41,15 @@ You can literally find all of my social media outlets that I have even a minimal
 
 **🐱 My GitHub Data** 
 
-> 📦 53.8 kB Used in GitHub's Storage 
+> 📦 53.9 kB Used in GitHub's Storage 
  > 
-> 🏆 246 Contributions in the Year 2026
+> 🏆 247 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -90,11 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
-HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+C#                       14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
+HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -104,7 +104,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2026 15:20:22 UTC
+ Last Updated on 05/03/2026 18:37:44 UTC
 <!--END_SECTION:waka-->
 
 ---
