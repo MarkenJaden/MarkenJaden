@@ -41,7 +41,7 @@ You can literally find all of my social media outlets that I have even a minimal
 
 **🐱 My GitHub Data** 
 
-> 📦 54.6 kB Used in GitHub's Storage 
+> 📦 54.7 kB Used in GitHub's Storage 
  > 
 > 🏆 279 Contributions in the Year 2026
  > 
@@ -78,14 +78,13 @@ Sunday                   1842 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JSON                     20 mins             █████████████████████████   99.37 % 
-Razor                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JSON                     10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            21 mins             █████████████████████████   100.00 % 
+Visual Studio            10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -105,7 +104,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 00:21:07 UTC
+ Last Updated on 18/03/2026 03:55:02 UTC
 <!--END_SECTION:waka-->
 
 ---
