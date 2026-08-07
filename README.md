@@ -35,15 +35,11 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%203%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2051%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 58.2 kB Used in GitHub's Storage 
+> 📦 58.1 kB Used in GitHub's Storage 
  > 
 > 🏆 565 Contributions in the Year 2026
  > 
@@ -53,48 +49,6 @@ You can literally find all of my social media outlets that I have even a minimal
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2415 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-🌆 Daytime                11628 commits       ████████░░░░░░░░░░░░░░░░░   33.43 % 
-🌃 Evening                10208 commits       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-🌙 Night                  10529 commits       ████████░░░░░░░░░░░░░░░░░   30.27 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   4754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Tuesday                  6709 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Wednesday                5938 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Thursday                 5438 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Friday                   5115 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Saturday                 2447 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Sunday                   4379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -112,7 +66,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 13:55:52 UTC
+ Last Updated on 07/08/2026 02:22:18 UTC
 <!--END_SECTION:waka-->
 
 ---
