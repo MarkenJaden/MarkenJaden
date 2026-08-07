@@ -35,6 +35,10 @@ You can literally find all of my social media outlets that I have even a minimal
 ### Stats 📈
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2051%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -49,6 +53,48 @@ You can literally find all of my social media outlets that I have even a minimal
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2397 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+🌆 Daytime                11582 commits       ████████░░░░░░░░░░░░░░░░░   33.37 % 
+🌃 Evening                10199 commits       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+🌙 Night                  10525 commits       ████████░░░░░░░░░░░░░░░░░   30.33 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   4739 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Tuesday                  6696 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Wednesday                5928 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Thursday                 5413 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Friday                   5104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 2444 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Sunday                   4379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -66,7 +112,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:22:18 UTC
+ Last Updated on 07/08/2026 04:56:59 UTC
 <!--END_SECTION:waka-->
 
 ---
