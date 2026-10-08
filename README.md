@@ -39,11 +39,11 @@ You can literally find all of my social media outlets that I have even a minimal
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 59.1 kB Used in GitHub's Storage 
+> 📦 145.3 kB Used in GitHub's Storage 
  > 
 > 🏆 594 Contributions in the Year 2026
  > 
@@ -56,21 +56,21 @@ You can literally find all of my social media outlets that I have even a minimal
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2397 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-🌆 Daytime                11701 commits       ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌃 Evening                10521 commits       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-🌙 Night                  10801 commits       ████████░░░░░░░░░░░░░░░░░   30.49 % 
+🌞 Morning                2451 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+🌆 Daytime                11866 commits       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+🌃 Evening                10548 commits       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+🌙 Night                  10813 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4869 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Tuesday                  6857 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Wednesday                6077 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Thursday                 5472 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Friday                   5187 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Saturday                 2533 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Sunday                   4425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Monday                   4914 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Tuesday                  6923 commits        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Wednesday                6107 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Thursday                 5547 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Friday                   5220 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Saturday                 2542 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Sunday                   4425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 ```
 
 
@@ -112,7 +112,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MarkenJaden/MarkenJaden/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 18:22:45 UTC
+ Last Updated on 08/10/2026 00:48:13 UTC
 <!--END_SECTION:waka-->
 
 ---
